@@ -1,2 +1,2 @@
 # golden
-https://portfollio.github.io/golden/
+coding on a layout from Photoshop
